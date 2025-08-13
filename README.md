@@ -9,8 +9,6 @@ It allows you to manage tasks in **To Do**, **Pending**, and **Completed** lists
 - Mark tasks as "Completed"
 - Simple and clean UI
 
-## Screenshot
-# Three-List To-Do App
 
 A beginner-friendly To-Do web application built with HTML, CSS, and JavaScript.  
 It allows you to manage tasks in **To Do**, **Pending**, and **Completed** lists.
