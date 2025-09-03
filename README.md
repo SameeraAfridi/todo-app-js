@@ -14,7 +14,7 @@ A beginner-friendly To-Do web application built with HTML, CSS, and JavaScript.
 It allows you to manage tasks in **To Do**, **Pending**, and **Completed** lists.
 
 ## Features
-- Add tasks to a "To Do" list
+- Add tasks to a "To Do" list.
 - Move tasks to "Pending"
 - Mark tasks as "Completed"
 - Simple and clean UI
